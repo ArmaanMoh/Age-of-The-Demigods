@@ -1,4 +1,4 @@
-Incomplete version to restrict people stealing the game!
+//Incomplete version to restrict people stealing the game!
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 
