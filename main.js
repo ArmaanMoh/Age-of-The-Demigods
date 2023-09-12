@@ -558,12 +558,10 @@ function PlayCutsceneChapter1(){
         if(e.key == 'ArrowRight' ||  e.key == 'd'){
             e.preventDefault();
          keyRight = true;
-         PlayerFrames();
         }
         if(e.key == 'ArrowLeft' ||  e.key == 'a'){
             e.preventDefault();
             keyLeft = true;
-            PlayerFrames();
            }
         if(e.key == 'ArrowUp' ||  e.key == 'w' || e.key == ' '){
             e.preventDefault();
@@ -1580,11 +1578,9 @@ canvas.addEventListener('touchstart',(e)=>{
 
 rightBtn.addEventListener('touchstart',(e)=>{
     keyRight = true;
-    PlayerFrames();
 })
 leftBtn.addEventListener('touchstart',(e)=>{
     keyLeft = true;
-    PlayerFrames();
 })
 
 jumpBtn.addEventListener('touchstart',(e)=>{
@@ -2583,3 +2579,9 @@ function PlayerFrames(){
 function GoToBio(){
     window.location.href = 'https://bio.link/armaanmohammed';
 }
+
+setInterval(() => {
+    if(keyRight || keyLeft){
+        PlayerFrames()
+    }
+},1000/8);
