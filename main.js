@@ -2,7 +2,9 @@
 
 //js13k Submission 2023 by Armaan.M
 
-//Project Created By @Armaan.M on 14/8/23
+//Updated and Improved version of game with ANIMATIONS is available on https://armaanm.itch.io/ageofthedemigods
+
+//Project Created By @Armaan.M (Armaan Mohammed) on 14/8/23
 
 
 //Basic Game Setup
@@ -2574,7 +2576,7 @@ function PlayerFrames(){
      }
 }
 
-//js13kSubmission 2023 by Armaan.M
+//Updated Animation Cycle fixes animation not playing on touchscreen devices (Not the same one used in js13k2023 subission) 
 
 function GoToBio(){
     window.location.href = 'https://bio.link/armaanmohammed';
@@ -2585,3 +2587,6 @@ setInterval(() => {
         PlayerFrames()
     }
 },1000/8);
+
+
+//js13kSubmission 2023 by Armaan.M
