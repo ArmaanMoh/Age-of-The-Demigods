@@ -13,12 +13,46 @@ At the end I decided to stop at just 4 and make a nice ending!
 
 ![zuesImg](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/31cd0752-6c36-419c-99fc-c2526d42cc4d)
 
+
+![download (2)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/a40dbe7c-a09f-4aff-8eb0-d178bc05a17b)
+
+The whole game is made with vanilla javascript and some basic html! This meant that most my code wasnt at all optimized
+and the size of the main.js file alone came to be above 70KB! Seeing this I spend about half the competition 
+minifying my code, compressing my images, removing some parts of the game etc. At the end my .zip file was still about 23KB.
+Luckily I found an awesome trick for reducing the size alot. Up until this point I used my systems standard compression but 
+I realised this was set to just -6 compression (the maximum being -9) so I found a handy terminal command that reduced the file 
+size to just below 13300 bytes; Extra Compress On Mac Command = :  zip -9 -r main.zip FolderName. 
+
+
+![images](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/4b117501-d02b-459e-8d08-9bcfefbebe21)
+
+
+
+There were some bugs and glitches that I didn't have time/space to fix:
+
+The touchscreen buttons zooming in at times,
+Multiple bosses spawning on mission 7,
+Player getting stuck on steps during mission 8 with no way to restart,
+Touch controls sometimes trigering promts such as ('it's rock') or ('it's grass') etc
+
+There were ALOT of bugs and I fixed Most of them but these are the ones that ended up in the published game.
+
+![download (3)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/5e1224f9-e63e-4839-933e-7a6c6f2d4121)
+
+
+
 I ended up publishing it without adding animations that work for mobile
 as I did not want it to lag but the https://armaanm.itch.io/ageofthedemigods version 
 does include animations for mobile and a sound effect for when you jump!
 
+
+![Demigod Spritesheet (2)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/5ff06e06-1872-40c3-a157-63ab286da8db)
+
+
+
 Overall, I was really Happy with the entry and I will continue to submit for the  following years!
 
-![demigodRightImg](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/c584c374-0215-41d2-9cbe-0db14ba2368b)
 
+
+![nyxImg-1 png (5)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/c7df6402-3d4d-4c88-a6f7-c18d57b04470)
 
