@@ -35,7 +35,9 @@ Multiple bosses spawning on mission 7,
 Player getting stuck on steps during mission 8 with no way to restart,
 Touch controls sometimes trigering promts such as ('it's rock') or ('it's grass') etc
 
-There were ALOT of bugs and I fixed Most of them but these are the ones that ended up in the published game.
+There were ALOT of bugs and I fixed Most of them but these are the ones that ended up in the game js13k release.
+
+The rest are 'mostly' fixed in the itch.io(https://armaanm.itch.io/ageofthedemigods) release!
 
 ![download (3)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/5e1224f9-e63e-4839-933e-7a6c6f2d4121)
 
