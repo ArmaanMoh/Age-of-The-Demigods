@@ -2,7 +2,7 @@ Age of the Demigods Post-Mortem
 
 ![cover](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/bbce5e25-2a4b-49ea-a4b7-3510a3f60f6a)
 
-This is my main entry for https://js13kgames.com 
+This is my main entry for [js13k 2023](https://js13kgames.com) 
 even though I have submitted 2 others(Mainly side projects for fun and not polished).
 When Theme got released I immidiately thought of a role-playing game. I could have made it about a soldier or a king 
 but at the time I was reading Percy Jackson Books so I got inspired to make a RPG where you play as hercules. 
@@ -17,8 +17,8 @@ At the end I decided to stop at just 4 and make a nice ending!
 ![download (2)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/a40dbe7c-a09f-4aff-8eb0-d178bc05a17b)
 
 The whole game is made with vanilla javascript and some basic html! This meant that most my code wasnt at all optimized
-and the size of the main.js file alone came to be above 70KB! Seeing this I spend about half the competition 
-minifying my code, compressing my images, removing some parts of the game etc. At the end my .zip file was still about 23KB.
+and the size of the main.js file alone came to be above 70KB! Seeing this I spent about half the competition just
+minifying my code, compressing images, removing some parts of the game etc. At the end my .zip file was still about 23KB.
 Luckily I found an awesome trick for reducing the size alot. Up until this point I used my systems standard compression but 
 I realised this was set to just -6 compression (the maximum being -9) so I found a handy terminal command that reduced the file 
 size to just below 13300 bytes; Extra Compress On Mac Command = :  zip -9 -r main.zip FolderName. 
@@ -37,14 +37,16 @@ Touch controls sometimes trigering promts such as ('it's rock') or ('it's grass'
 
 There were ALOT of bugs and I fixed Most of them but these are the ones that ended up in the game js13k release.
 
-The rest are 'mostly' fixed in the itch.io(https://armaanm.itch.io/ageofthedemigods) release!
+The rest are 'mostly' fixed in the [itch.io](https://armaanm.itch.io/ageofthedemigods) release!
+but I did not change anything about the game itself such as the music, the bosses and the story as 
+I wanted it to be for the most part same as the one released to [Js13k](https://js13kgames.com/entries/age-of-the-demigods)
 
 ![download (3)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/5e1224f9-e63e-4839-933e-7a6c6f2d4121)
 
 
 
 I ended up publishing it without adding animations that work for mobile
-as I did not want it to lag but the https://armaanm.itch.io/ageofthedemigods version 
+as I did not want it to lag but the [itch.io version ](https://armaanm.itch.io/ageofthedemigods)
 does include animations for mobile and a sound effect for when you jump!
 
 
