@@ -55,9 +55,13 @@ does include animations for mobile and a sound effect for when you jump!
 
 Post Comp: 
 
-On the [itch.io version ](https://armaanm.itch.io/ageofthedemigods) I have made it to be full screen as per [Poppular Feedback](https://dev.js13kgames.com/2023/games/age-of-the-demigods) and removed the car in mission 2 as to fit with this years theme (13nth century).
+On the [itch.io version ](https://armaanm.itch.io/ageofthedemigods) I have made it to be full screen as per [Poppular Feedback](https://dev.js13kgames.com/2023/games/age-of-the-demigods) and removed the car in mission 2 as to fit with this years theme (13nth century (even if i interpreted it as 13nth century BC)).
 
-Things I did not change: I did not change the music and prompts (Which was also [Poppular Feedback](https://dev.js13kgames.com/2023/games/age-of-the-demigods) as I wanted it to be mostly simmillar in terms of the submission on [Js13k](https://js13kgames.com/entries/age-of-the-demigods)
+Things I did not change: I did not change the music and prompts (Which was also [Poppular Feedback](https://dev.js13kgames.com/2023/games/age-of-the-demigods) as I wanted it to be mostly simmillar in terms of the submission on [Js13k](https://js13kgames.com/entries/age-of-the-demigods) .
+
+Theme:
+
+This year I went with a different approach as not much interesting stuff happened in the 13nth century so instead I decided to Interpret the theme as 13nth century BC (When hercules was born). The [Js13k](https://js13kgames.com/entries/age-of-the-demigods) version included a car which needed fuel as chapter 2. I think I had just gone completely mad to have implemented this 😵‍💫 but I removed it in the [itch.io version ](https://armaanm.itch.io/ageofthedemigods !
 
 
 
