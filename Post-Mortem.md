@@ -53,6 +53,13 @@ does include animations for mobile and a sound effect for when you jump!
 ![Demigod Spritesheet (2)](https://github.com/ArmaanMoh/Age-of-The-Demigods/assets/94212438/5ff06e06-1872-40c3-a157-63ab286da8db)
 
 
+Post Comp: 
+
+On the [itch.io version ](https://armaanm.itch.io/ageofthedemigods) I have made it to be full screen as per [Poppular Feedback](https://dev.js13kgames.com/2023/games/age-of-the-demigods) and removed the car in mission 2 as to fit with this years theme (13nth century).
+
+Things I did not change: I did not change the music and prompts (Which was also [Poppular Feedback](https://dev.js13kgames.com/2023/games/age-of-the-demigods) as I wanted it to be mostly simmillar in terms of the submission on [Js13k](https://js13kgames.com/entries/age-of-the-demigods)
+
+
 
 Overall, I was really Happy with the entry and I will continue to submit for the  following years!
 
