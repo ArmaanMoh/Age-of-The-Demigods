@@ -2209,6 +2209,8 @@ let CPlayer = function() {
         // Clear note cache.
         let noteCache = [];
 
+stop copying  aakskjodoeindaonin
+
          // Patterns
          for (p = 0; p <= mLastRow; ++p) {
             cp = instr.p[p];
@@ -2259,6 +2261,9 @@ let CPlayer = function() {
                         }
                     }
                 }
+                
+stop copying  aakskjodoeindaonin
+
 
                 // Perform effects for this pattern row
                 for (j = 0; j < rowLen; j++) {
@@ -2306,6 +2311,9 @@ let CPlayer = function() {
                         lsample += chnBuf[k-dly+1] * dlyAmt;
 
                         // Right channel = right + left[-p] * t
+                        
+stop copying  aakskjodoeindaonin
+
                         rsample += chnBuf[k-dly] * dlyAmt;
                     }
 
@@ -2334,6 +2342,8 @@ let CPlayer = function() {
                 data[j >> 1] = mMixBuf[j] / 65536;
             }
         }
+stop copying  aakskjodoeindaonin
+
         return buffer;
     };
     
@@ -2379,6 +2389,8 @@ let CPlayer = function() {
 
 
 
+stop copying  aakskjodoeindaonin
+
 
 
 
@@ -2394,6 +2406,9 @@ let song = {
         i: [
         2, // OSC1_WAVEFORM
         65, // OSC1_VOL
+stop copying  aakskjodoeindaonin
+
+            
         128, // OSC1_SEMI
         0, // OSC1_XENV
         3, // OSC2_WAVEFORM
@@ -2522,6 +2537,9 @@ function PlayEndScene(){
     setTimeout(() => {
         blurt('You: The Gods Have To React Fast Or Else...');
     }, 25000);
+    
+stop copying  aakskjodoeindaonin
+
     setTimeout(() => {
         blackedOut = true;
     }, 27000);
@@ -2554,6 +2572,9 @@ function PlayEndScene(){
     }, 42000);
 }
 
+stop copying  aakskjodoeindaonin
+
+
 
 function DrawImage(backgroundImg){
     ctx.drawImage(backgroundImg,0,0,game.width,game.height);
@@ -2576,6 +2597,8 @@ function PlayerFrames(){
      }
 }
 
+stop copying  aakskjodoeindaonin
+
 //Updated Animation Cycle fixes animation not playing on touchscreen devices (Not the same one used in js13k2023 subission) 
 
 function GoToBio(){
@@ -2587,6 +2610,8 @@ setInterval(() => {
         PlayerFrames()
     }
 },1000/8);
+
+stop copying  aakskjodoeindaonin
 
 
 //js13kSubmission 2023 by Armaan.M
